@@ -1,0 +1,68 @@
+*{
+    font-family: "kanit";
+    background-color: rgb(168, 148, 148);
+
+}
+
+#header{
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    margin: 50px;
+    padding: 20px;
+    border-color: rgb(255, 255, 255);
+    border: solid;
+    border-radius: 15px;
+}
+#name{
+    font-size: 30px;
+}
+
+.linki{
+    font-size: 25px;
+    text-align: center;
+    border: solid white;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 50px;
+}
+
+img{
+    border-radius: 15px;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: rgb(150, 133, 133);
+}
+
+a:active{
+    color: rgb(65, 60, 60);
+}
+
+#footer{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
